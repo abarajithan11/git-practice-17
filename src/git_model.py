@@ -6,5 +6,5 @@ commit_1 = {
 }
 
 if __name__ == '__main__':
-  print("commit_1")
+  print(commit_1)
 
