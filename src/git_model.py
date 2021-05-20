@@ -1,3 +1,5 @@
+tree = ['src/*.py']
+
 commit_1 = {
   'message': "Add initial files",
   'parents' : [], # list of commits
