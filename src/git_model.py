@@ -17,7 +17,7 @@ def divide (a,b):
   return a/b
 
 if __name__ == '__main__':
-  print("commit_1")
+  print("The commit is: ", "commit_1")
   print(add(2,3))
   print(multiply(2,3))
   print(divide(2,3))
