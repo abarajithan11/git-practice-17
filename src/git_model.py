@@ -5,6 +5,10 @@ commit_1 = {
   'snapshot': tree
 }
 
+def add (a, b):
+  return a+b
+
 if __name__ == '__main__':
   print("commit_1")
+  print(add(2,3))
 
